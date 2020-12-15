@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newt", "Newt\Newt.csproj", "{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Debug|x64.ActiveCfg = Debug|x64
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Debug|x64.Build.0 = Debug|x64
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Debug|x86.ActiveCfg = Debug|x86
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Debug|x86.Build.0 = Debug|x86
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Release|x64.ActiveCfg = Release|x64
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Release|x64.Build.0 = Release|x64
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Release|x86.ActiveCfg = Release|x86
+		{30E77AF4-CAAF-49A3-ABAE-36DF464E471C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D87A27-DBA6-4399-A2E9-00D5826E8802}
+	EndGlobalSection
+EndGlobal
